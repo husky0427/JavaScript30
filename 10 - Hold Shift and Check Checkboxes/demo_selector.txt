@@ -1,0 +1,2 @@
+https://www.w3schools.com/jsref/met_document_queryselector.asp
+https://blog.kkbruce.net/2012/03/jquery-selectors-2-hierarchy.html#.YcAvMRNBy3I
